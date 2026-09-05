@@ -1,0 +1,10 @@
+  body {
+         background: linear-gradient(90deg, #ffffd1 0.000%, #ffe07e 16.667%, #ff531e 33.333%, #730000 50.000%, #000000 66.667%, #002d2f 83.333%, #0bbc91 100.000%);
+        }
+        .header {
+            background-color: rgb(92, 92, 92);
+            color: #faf8f8;
+            padding: 0.5%;
+            text-align: center;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        } 
